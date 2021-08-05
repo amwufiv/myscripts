@@ -1,0 +1,2 @@
+0 0 * * * /usr/local/bin/certbot-auto renew >/dev/null
+0 0 * * * rm /root/root.log
